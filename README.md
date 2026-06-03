@@ -54,7 +54,7 @@ A safety guard applies to both paths: only **window-backed apps with no
 ### Option A — Makefile (recommended)
 
 ```bash
-git clone https://github.com/andreaf17/parallels-guest-tools-icon.git
+git clone https://github.com/AndreaF17/Parallels-Guest-Tools-Icon-Hider.git
 cd parallels-guest-tools-icon
 make install
 # log out and log back in (Ubuntu 26.04 is Wayland-only, so the shell
