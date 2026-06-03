@@ -1,0 +1,1 @@
+# Parallels-Guest-Tools-Icon-Hider
