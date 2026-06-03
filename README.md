@@ -55,7 +55,7 @@ A safety guard applies to both paths: only **window-backed apps with no
 
 ```bash
 git clone https://github.com/AndreaF17/Parallels-Guest-Tools-Icon-Hider.git
-cd parallels-guest-tools-icon
+cd Parallels-Guest-Tools-Icon-Hider
 make install
 # log out and log back in (Ubuntu 26.04 is Wayland-only, so the shell
 # cannot be restarted in place)
