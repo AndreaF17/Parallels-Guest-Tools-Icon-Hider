@@ -1,0 +1,8 @@
+{
+  "uuid": "parallels-guest-tools-icon@local",
+  "name": "Parallels Guest Tools Icon Hider",
+  "description": "Hides the phantom \"Unknown\" application icon that Parallels guest tools create in the Ubuntu Dock when the virtual machine loses focus. The ghost window is identified by its owning Parallels Tools process (prlcc, prldnd, prlsga, ...), with a narrow fallback for the blank \"Unknown\" overlay window. Only window-backed apps with no real .desktop file are ever affected, so installed applications are untouched.",
+  "shell-version": ["48", "49", "50"],
+  "version": "1.0.0",
+  "url": ""
+}
